@@ -1,2 +1,2 @@
 # age-pred-r1
-Source code for our Cerebral Cortex manuscript
+Source code of our Cerebral Cortex manuscript
